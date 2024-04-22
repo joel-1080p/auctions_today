@@ -18,7 +18,7 @@ NOTE : Set up app passwords for this to work with Gmail.
 ## How I Use It
 I have this script runnig daily at 5 AM using Windows Task Scheduler.
 
-## Libraries Used
+## Libraries
 - Latest Python
 - Selinium Webdriver
 - smtplib
