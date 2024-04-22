@@ -13,6 +13,8 @@ When the app finishes, you will get an email with all of the auctions ending tod
 - In `config.py` change `gmail_username` and `gmail_pw` to change the email it's going to be sending from.
 - Run `govDeals.py` to get all of the acutions ending that day.
 
+NOTE : Set up app passwords for this to work with Gmail.
+
 ## How I Use It
 I have this script runnig daily at 5 AM using Windows Task Scheduler.
 
