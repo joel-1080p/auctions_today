@@ -16,6 +16,13 @@ When the app finishes, you will get an email with all of the auctions ending tod
 ## How I Use It
 I have this script runnig daily at 5 AM using Windows Task Scheduler.
 
+## Libraries Used
+- Latest Python
+- Selinium Webdriver
+- smtplib
+- datetime
+- undetected_chromedriver
+
 ## P.S.
 
 Please drop me a note with any feedback you have.
